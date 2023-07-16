@@ -10,7 +10,7 @@ begin
   res_s := s mod 3600;
   m := res_s / 60;
   res_m := m mod 60;
-  writeln('il est : ', h,':',m,':',res_m,':');
+  writeln('ils est : ', h,':',m,':',res_m,':');
   
   readln;
 end.
