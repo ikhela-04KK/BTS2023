@@ -16,9 +16,9 @@ var i:integer;
 begin
   i := 1;
   som := 0;
-  while i < 100 Do 
+  while i < 100 Do
     begin 
-      writeln('entrer un candidat: ');
+      writeln('entreur un candidat: ');
       readln(candidat);
       if candidat = '' then 
         break;

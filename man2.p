@@ -25,7 +25,7 @@ begin
   end
 
   if (q<1 or q<4) then 
-    write('Erreur de choix');
+    write('Erreur de choixx');
   else 
     begin 
       r := tn*tr;
